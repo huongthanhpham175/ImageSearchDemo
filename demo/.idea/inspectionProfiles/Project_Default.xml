@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="UseSift.matplotlib" />
+          <option value="TrainImage.sess" />
+          <option value="TestModel.class_names" />
+          <option value="TestModel.tf" />
+          <option value="TestModel.*" />
+          <option value="demo.settings" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
